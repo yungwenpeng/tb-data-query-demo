@@ -1,10 +1,10 @@
-#Thingsboard Data Query REST API  
+# Thingsboard Data Query REST API  
   https://thingsboard.io/docs/user-guide/telemetry/  
 
   Add okhttp dependencies : https://mvnrepository.com/artifact/com.squareup.okhttp3/okhttp  
   Add gson dependencies : https://mvnrepository.com/artifact/com.google.code.gson/gson  
 
-#ThingsBoard REST API  
+# ThingsBoard REST API  
 
   Refer to https://thingsboard.io/docs/reference/rest-api/  
       get the JSON Web Token(JWT)  
