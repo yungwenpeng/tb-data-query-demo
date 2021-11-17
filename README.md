@@ -5,8 +5,9 @@
   Add gson dependencies : https://mvnrepository.com/artifact/com.google.code.gson/gson  
 
 # ThingsBoard REST API  
-
+  
   Refer to https://thingsboard.io/docs/reference/rest-api/  
+  
       get the JSON Web Token(JWT)  
       $ curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' -d '{"username":"username", "password":"password"}' 'http://THINGSBOARD_URL/api/auth/login'  
         >> display TOKEN  
